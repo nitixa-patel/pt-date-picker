@@ -5,21 +5,13 @@ This project is a reusable Recurring Date Picker component inspired by the TickT
 
 🚀 Getting Started
 To run the development server:
-
-bash
-Copy
-Edit
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 Open your browser and navigate to http://localhost:3000 to view the app.
 
-<---------------------------------------------------------------------------------->
-<---------------------------------------------------------------------------------->
+<----------------------------------------->
+<----------------------------------------->
 
 You can start editing the application in:
 
@@ -29,8 +21,8 @@ Edit
 src/app/page.tsx
 Changes are automatically reflected in the browser.
 
-<---------------------------------------------------------------------------------->
-<---------------------------------------------------------------------------------->
+<----------------------------------------->
+<----------------------------------------->
 
 🧩 Features
 Recurring options: Daily, Weekly, Monthly, Yearly
@@ -49,5 +41,5 @@ Modular, reusable components
 
 Responsive, accessible UI with Tailwind CSS
 
-<---------------------------------------------------------------------------------->
-<---------------------------------------------------------------------------------->
+<----------------------------------------->
+<----------------------------------------->
