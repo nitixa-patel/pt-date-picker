@@ -1,7 +1,7 @@
 This project is a reusable Recurring Date Picker component inspired by the TickTick app. It's built with Next.js using the App Router, TypeScript, Tailwind CSS, and modular component architecture.
 
-<---------------------------------------------------------------------------------->
-<---------------------------------------------------------------------------------->
+<----------------------------------------->
+<----------------------------------------->
 
 🚀 Getting Started
 To run the development server:
